@@ -115,7 +115,7 @@ iframe{
     position: relative;
     height: 25px;
 }
-img.doação {
+img.doacao {
     display: grid;
     transform: rotate(-45deg);
     margin: 36px 30px 47px 90%;
