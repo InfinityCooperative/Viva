@@ -118,7 +118,7 @@ iframe{
 img.doacao {
     display: grid;
     transform: rotate(-45deg);
-    margin: 36px 30px 47px 90%;
+    margin: 36px;
     height: 71px;
     justify-content: end;
 }
